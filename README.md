@@ -51,7 +51,7 @@ Reusable records that other tools pick up from a dropdown:
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/open-fashion-studio.git
+git clone https://github.com/serhatumutselet/open-fashion-studio.git
 cd open-fashion-studio
 npm install
 npm run dev
